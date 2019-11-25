@@ -1,0 +1,34 @@
+1. When Michael Jordan played for the Chicago Bulls, how many NBA Championships did he win?
+	a. 6
+	b. 2
+	c. 3
+	d. 1
+	correct answer: a
+
+2. What year was the very first model of the iPhone released?
+	a. 2009
+	b. 2003
+	c. 2019
+	d. 2007
+	correct answer: d
+
+3. Who discovered penicillin?
+	a. Robert Koch
+	b. Alexander Fleming
+	c. Howard Florey
+	d. Ernst Chain
+	correct answer: b
+
+4. Who is often credited with creating the world’s first car?
+	a. Karl Benz
+	b. Henry Ford
+	c. Gottlieb Daimler
+	d. Wilhelm Maybach
+	correct answer: a
+
+5. Which country produces the most coffee in the world?
+	a. USA
+	b. China
+	c. Brazil
+	d. Canada
+	correct answer: c
